@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">App1</string>
     <string name="hola_mundo">¡Hola Mundo!</string>
+    <string name="textoBoton">Button</string>
+    <string name="textoTexto">Name</string>
+    <string name="Hint">Text</string>
 </resources>
